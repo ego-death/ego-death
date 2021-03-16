@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey, what's up? I'm Sid from Bangalore. 20 years old, and actively pushing code to various projects (or at least trying to). 
 I also listen to a lot of music and play drums for various Bangalore-based bands in my spare time.
-Anyway, have fun looking around!
+Anyways, have fun looking around!
 
 - 🌱 I’m currently learning ...
 Back-end stuff. I will be utilizing the MERN stack in the future. I know a bit of PHP, but not extensively.
