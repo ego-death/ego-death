@@ -1,4 +1,4 @@
-web dev. MERN/XAMPP
+21 year old student, web dev, MERN/XAMPP
 
 we do a little bit of trolling
 
