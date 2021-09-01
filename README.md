@@ -1,1 +1,2 @@
-21 year old student, web dev, MERN/XAMPP
+i like python/javascript
+add me on discord - downwiththedogs#2443
