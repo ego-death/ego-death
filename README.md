@@ -1,3 +1,3 @@
 student in bangalore.
 
-kinda proficient in python, js and cpp
+kinda okay at python, js and cpp
